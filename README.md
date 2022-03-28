@@ -1,2 +1,2 @@
 # Calculator
-cmc in c
+Command line calculator in C (School project)
